@@ -1,0 +1,6 @@
+.idea/*
+.DS_store
+target/*
+cover/*
+build.sh
+config/config.yaml
