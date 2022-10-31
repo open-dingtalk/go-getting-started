@@ -1,3 +1,7 @@
+[![Build Status](https://github.com/open-dingtalk/go-getting-started/workflows/Go/badge.svg?branch=master)](https://github.com/open-dingtalk/go-getting-started/actions)
+![GitHub issues](https://img.shields.io/github/issues/open-dingtalk/go-getting-started)
+![GitHub](https://img.shields.io/github/license/open-dingtalk/go-getting-started)
+
 # go-getting-started
 钉钉酷应用脚手架go语言版本。
 
