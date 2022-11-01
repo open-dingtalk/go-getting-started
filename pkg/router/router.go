@@ -38,8 +38,8 @@ func ActiveInitHttpRouter(port int, staticFilePath string) error {
 	//静态文件
 	router.StaticFile("", staticFilePath+"/index.html")
 	router.StaticFile("/index.html", staticFilePath+"/index.html")
-	router.StaticFile("/umi.css", staticFilePath+"/umi.css")
-	router.StaticFile("/umi.js", staticFilePath+"/umi.js")
+	router.StaticFile("/style.css", staticFilePath+"/style.css")
+	router.StaticFile("/main.js", staticFilePath+"/main.js")
 
 	return router.Run(fmt.Sprintf(":%d", port))
 }
