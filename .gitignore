@@ -3,4 +3,3 @@
 target/*
 cover/*
 build.sh
-config/config.yaml

@@ -1,0 +1,10 @@
+innerappinfo:
+  appkey: your-app-key
+  appsecret: your-app-secret
+robotinfo:
+  code: your-robot-code
+coolappinfo001:
+  code: your-cool-app-code
+cardinfo:
+  messagecardtemplateid001: your-message-card-template-id
+  topcardtemplateid001: your-top-card-template-id
